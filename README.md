@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RolandoCastillo11/RolandoCastillo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 align="center">Hi there 👋, I'm Rolando Castillo</h1>
+  <h3 align="center">Computer Systems Engineer (Loading...) ⚙️</h3>
 
-Here are some ideas to get you started:
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=RolandoCastillo11&label=Profile%20Views&color=7938c2&style=flat-square" alt="RolandoCastillo11" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center"> 
+    Data Analyst in the making 🚀 | Visuals & Logic enthusiast
+  </p>
+
+</div>
+
+---
+
+### 🧐 About Me
+
+- 🔭 I’m currently studying **Computer Systems Engineering (6th Sem)** in **México 🇲🇽**
+- 🌱 I’m currently learning **Data Analysis & Visualization**
+- 💜 **Passion**: Combining programming logic with visual/physical results.
+- ⚡ **Fun fact**: I code better listening to **Kanye West** 🐻
+- 🥅 **Goal**: Specialize in Data Analysis.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/RolandoCastillo11">
+    <img src="https://github-readme-stats.vercel.app/api?username=RolandoCastillo11&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="RolandoCastillo11's GitHub Stats" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/RolandoCastillo11">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolandoCastillo11&layout=compact&theme=radical&hide_border=true&bg_color=141321" alt="Top Languages" />
+  </a>
+
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+
+  <a href="https://www.linkedin.com/in/rolando-castillo-808672235">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rxlxndx_cm/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:rol.cas2711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
