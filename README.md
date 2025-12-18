@@ -1,7 +1,12 @@
 <div align="center">
 
-  <h1 align="center">Hi there 👋, I'm Rolando Castillo</h1>
-  <h3 align="center">Computer Systems Engineer (Loading...) ⚙️</h3>
+  <img src="./banner.png" alt="Data & Logic Banner" width="100%" />
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A965EE&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B,+I'm+Rolando+Castillo;Computer+Systems+Engineer+%E2%9A%99%EF%B8%8F;Future+Data+Analyst+%F0%9F%93%8A" alt="Typing SVG" />
+  </a>
 
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=RolandoCastillo11&label=Profile%20Views&color=7938c2&style=flat-square" alt="RolandoCastillo11" />
@@ -43,7 +48,6 @@
 
 </div>
 
----
 
 ### 📊 GitHub Stats
 
