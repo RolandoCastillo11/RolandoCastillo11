@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./banner_premium.png" alt="Data & Logic Banner" width="100%" />
+  <img src="./banner1.png" alt="Data & Logic Banner" width="100%" />
 
   <br/>
 
